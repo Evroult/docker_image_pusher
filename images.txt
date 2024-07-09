@@ -1,1 +1,1 @@
-thankwhite/vastbase_g100
+thankwhite/vastbase_g100:2.2.15
